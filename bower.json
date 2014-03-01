@@ -1,0 +1,21 @@
+{
+  "name": "util.js",
+  "main": "util.js",
+  "version": "0.0.1",
+  "authors": [
+    "bogdan-bugarschi <bbgarschi@gmail.com>"
+  ],
+  "description": "Small functional util library",
+  "keywords": [
+    "functional",
+    "util"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
